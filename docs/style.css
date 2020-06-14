@@ -1,0 +1,192 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+
+}
+.middleContainer img{
+    margin-top: 50px;
+}
+.middleContainer p{
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-top: 15px;
+    font-size: 1.4em;
+}
+
+
+h1 {
+    font-size: 100px;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+
+}
+
+.topContainer {
+    margin-top: 0;
+    padding-top: 100px;
+    background-color: #E4F9F5;
+    margin-bottom: 50px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.firstSpan {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 2;
+}
+
+.bottom-cloud {
+    position: absolute;
+
+    left: 100px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 100px;
+}
+
+.ajay {
+    font-size: 2em;
+    color: gray;
+    padding: 2% 5%;
+}
+
+.ajay:hover {
+    color: black;
+}
+
+.bottomHeading {
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+    color:#e0ebe8;
+    margin-left: 15px;
+    font-size: 20px;
+
+}
+
+a:hover {
+
+
+    color: black;
+}
+
+.SocialMedia {
+    padding: 50px;
+}
+
+.bottomContainer {
+    background-color: #66BFBF;
+    margin: 50px;
+
+}
+.bottomContainer p{
+    margin-top: 0;
+}
+
+.bottomSpan {
+    border-bottom: solid 1.5px;
+
+
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    width: 4%;
+    color: gray;
+
+
+}
+
+.skills img {
+    width: 17%;
+
+
+}
+
+.skills h2 {
+    margin-top: 70px;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto 70px auto;
+    text-align: left;
+
+
+}
+
+.webImg {
+    float: left;
+    margin-right: 40px;
+}
+
+.computerImg {
+    float: right;
+    margin-left: 40px;
+}
+
+.Worksection {
+    margin: 70px;
+
+}
+
+.Worksection h3,
+h4,
+p {
+    margin-top: 50px;
+}
+
+.Worksection img {
+    margin-top: 30px;
+}
+.bottomContainer{
+    margin-left: 0;
+    margin-right: 0;
+}
+.bottomContainer p {
+    font-size: 15px;
+    display: inline-block;
+}
+
+.buttonn {
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+    background-color: #66BFBF;
+
+    font-family: 'Montserrat', sans-serif;
+    
+    margin-top: 30px;
+    display: inline-block;
+
+    font-size: 1.2em;
+
+
+
+}
