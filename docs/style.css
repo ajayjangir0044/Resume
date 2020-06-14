@@ -5,6 +5,9 @@ body {
 
 
 }
+.Intro{
+    width: 50%;
+}
 .middleContainer img{
     margin-top: 50px;
 }
@@ -12,7 +15,8 @@ body {
     display: inline-block;
     margin-bottom: 50px;
     margin-top: 15px;
-    font-size: 1.4em;
+    font-size: 1.5em;
+   
 }
 
 
@@ -31,7 +35,7 @@ h1 {
     margin-bottom: 50px;
 }
 
-h3 {
+h3,h4 {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
 }
@@ -122,33 +126,42 @@ hr {
 
 }
 
-.skills img {
-    width: 17%;
-
-
-}
 
 .skills h2 {
     margin-top: 70px;
+    
 }
+.skills h3{
+    font-size: 1.5em;
 
-
-.skill-row {
-    width: 50%;
-    margin: 70px auto 70px auto;
+}
+.firstTable
+{
     text-align: left;
-
-
+margin: auto;
+    width: 70%;
 }
+
+
+
+
+
 
 .webImg {
-    float: left;
-    margin-right: 40px;
+    display: inline-block;
+    position: relative;
+    top: -20px;
+     margin-right: 100px;  
 }
 
 .computerImg {
-    float: right;
     margin-left: 40px;
+   width: 120%;
+
+}
+.secondTable{text-align: left;
+   margin: auto; 
+   width: 70%;            
 }
 
 .Worksection {
@@ -158,13 +171,31 @@ hr {
 
 .Worksection h3,
 h4,
-p {
+ {
     margin-top: 50px;
+        
+}
+.Worksection h3{
+    margin-top: 50px;
+    font-size: 1.6em;
+}
+.Worksection h4{
+    margin-top: 50px;
+    font-size: 1.3em;
+}
+.Worksection p{
+    width: 50%;
+    text-align: left;
 }
 
 .Worksection img {
     margin-top: 30px;
 }
+
+
+
+
+
 .bottomContainer{
     margin-left: 0;
     margin-right: 0;
@@ -182,11 +213,14 @@ p {
 
     font-family: 'Montserrat', sans-serif;
     
-    margin-top: 30px;
+    margin-top: 40px;
     display: inline-block;
 
     font-size: 1.2em;
 
 
 
+}
+.last{
+    margin-top: -50px;
 }
